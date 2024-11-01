@@ -1,0 +1,29 @@
+img {
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #93909078;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.p-card {
+  flex: 1;
+  margin-left: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.p-card p {
+  line-height: 1.6;
+  font-size: 1.1em;
+}
