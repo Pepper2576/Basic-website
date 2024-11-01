@@ -21,6 +21,9 @@ img {
   margin-left: 20px;
   font-family: Arial, sans-serif;
   color: #333;
+  background-color: rgba(0, 0, 0, 0.237);
+  padding: 30px;
+  border-radius: 10px;
 }
 
 .p-card p {
